@@ -97,14 +97,14 @@ El Key Content-Type en el contexto de un header le dice al navegador el tipo de 
 
 
 
-##Ejercicio 3
+## Ejercicio 3
 La diferencia entre estas dos llamadas es que luego de realizar un post request a la URL otorgada con nuestro nombre, apellido y correo,esa informacion ha quedado almacenada en el servidor, Por lo que al realizar una nueva get request, podemos ver que ahora nuestro nombre y correo esta listado en la informacion, en la primera request no estaba ahí.
 
-##Ejercicio 4
+## Ejercicio 4
 Resolución de lo módulos aquí:
 https://trailblazer.me/id/llibanotte
 
-##Ejercicio 5
+## Ejercicio 5
 
 *Lead se le llama a un prospecto de venta que expreso interés en tu producto o compañía, El objeto lead representa uno de estos prospectos
 *Account se le llama a la cuenta institución empresa o consumidor que queremos seguir, ya sea un cliente, un socio, o un competidor. El objeto account representa una cuenta individual, involucrada con el negocio
@@ -120,8 +120,8 @@ https://trailblazer.me/id/llibanotte
 Estos objetos, ademas de tener funcionalidades en si mismas, tienen relaciones con otros objetos de Salesforce, detalladas en el siguiente diagrama UML:
 ![Diagrama de relaciones ](https://user-images.githubusercontent.com/90228351/201262166-b8b533a7-22e4-4608-a68a-3464aa12ce55.jpg)
 
-##Ejercicio 6
-###Soluciones Salesforce
+## Ejercicio 6
+### Soluciones Salesforce
 
 A.	Salesforce es una solución de gestión para relaciones entre empresas y clientes basada en CRM.
 
@@ -133,7 +133,7 @@ D.	Health Cloud es un sistema CRM focalizado en proporcionar servicios de atenci
 
 E.	Marketing Cloud es un servicio que proporciona diversas herramientas para mejorar la interacción de las empresas con sus clientes actuales y potenciales, a través de todo tipo de canales.
 
-###Funcionalidades de Salesforce
+### Funcionalidades de Salesforce
 
 
 A.	Un Record Type es un objeto que ofrece diferentes registros de procesos de negocios y subvalores de listas de selección específicos para cada perfil de usuario
@@ -166,7 +166,7 @@ N.	Omnichannel es una funcionalidad altamente personalizable y declarativa (se c
 
 O.	Chatter es una funcionalidad que permite la colaboración en tiempo real para que los usuarios puedan trabajar juntos.
 
-###Conceptos Generales
+### Conceptos Generales
 
 A.	SaaS significa “Software as a Service”, es decir, software como un servicio. Es una forma de poner a disposición soluciones de tecnología por medio de la internet.
 
