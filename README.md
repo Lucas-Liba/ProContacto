@@ -98,15 +98,15 @@ El Key Content-Type en el contexto de un header le dice al navegador el tipo de 
 
 
 ## Ejercicio 3
-Get Request:-
+Get Request:
 
 ![image3](https://user-images.githubusercontent.com/90228351/204668145-567d2ecd-ae0f-4133-ba21-cbe021f4d8e1.png)
 
-Post Request:-
+Post Request:
 
 ![image1](https://user-images.githubusercontent.com/90228351/204668180-e9ac300e-4b0a-497a-966b-7aeab9854a5a.png)
 
-Get Request, en la que ahora figura nuestro nombre:-
+Get Request, en la que ahora figura nuestro nombre:
 
 ![image2](https://user-images.githubusercontent.com/90228351/204668230-cccdb8f8-5350-4913-9313-d729db848dc5.png)
 
